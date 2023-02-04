@@ -11,7 +11,7 @@ More docs below.
 ## Practice Directions
 
 1. Clone this repo (not fork it!), and publish to your own GitHub. Don't let others cheat off of you :P
-2. Checkout the issues https://github.com/UseKeyp/redwood-intro/issues
+2. Checkout the issues https://github.com/UseKeyp/redwood-intro/issues and complete issue #1-3. #4 is an optional bonus.
 3. Complete the issues, each with its own unique branch and pull request into your own repository's main branch.
 
 # README from redwood initialized app:
