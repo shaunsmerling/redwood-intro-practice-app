@@ -6,7 +6,7 @@ Redwood init repo used as a challenge and sandbox area.
 
 This repo was created with `yarn create redwood-app my-redwood-project`
 
-More docs below.
+More docs below. .
 
 ## Practice Directions
 
